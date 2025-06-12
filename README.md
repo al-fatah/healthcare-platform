@@ -1,10 +1,10 @@
-# 🏥 Healthcare Platform Revamp
+# Healthcare Platform Revamp Platform Project
 
 A distributed, cloud-native microservices platform designed to replace legacy mainframe systems for modern healthcare providers. This architecture enables agility, extensibility, and regional scalability across clinics, hospitals, and new digital healthcare services.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Backend**: Node.js, Express
 - **Auth**: JWT, bcryptjs
